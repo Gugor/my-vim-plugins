@@ -1,2 +1,2 @@
-# my-vim-plugins
-All my vim plugin
+# My Vim plugins
+All my vim plugins
